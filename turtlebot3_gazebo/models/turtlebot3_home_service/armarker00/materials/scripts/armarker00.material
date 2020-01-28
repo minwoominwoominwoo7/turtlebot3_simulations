@@ -1,0 +1,14 @@
+material armarker00
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture armarker00.png
+      }
+    }
+  }
+}
+
